@@ -12,20 +12,20 @@
   {"name": "Bang Liu", "affiliations": [1, 2], "corresponding": true}
  ],
  "affiliations": [
-  "DIRO & Institut Courtois, Université de Montréal",
-  "Mila - Québec AI Institute",
+  "Mila - Quebec AI Institute",
+  "Université de Montréal",
   "University of Southern California",
   "Microsoft Research",
   "Ambarella Inc."
  ],
  "venue": "Preprint",
  "links": {
-  "paper": "",
+  "paper": "https://arxiv.org/abs/2610.18547",
   "code": "https://github.com/icsearch/ICS",
   "weights": "https://huggingface.co/hcshi/ICS",
   "data": "",
   "license": "https://github.com/icsearch/ICS/blob/main/LICENSE",
   "notices": "https://github.com/icsearch/ICS/blob/main/THIRD_PARTY_NOTICES.md"
  },
- "bibtex": {"key": "shi2026ics", "year": "2026"}
+ "bibtex": {"key": "shi2026ics", "year": "2026", "eprint": "2610.18547"}
 }
